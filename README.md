@@ -41,7 +41,7 @@ The project utilizes the following datasets:
 
 - Newsgroups: A dataset of approximately 20,000 documents categorized into 20 topics, consisting of long-form text.
 
-- EVENTS2012 DATASET - collection of 66K Twitter tweets, divided into 505 labels (by humans) from year 2012.
+- EVENTS2012 DATASET: collection of 66K Twitter tweets, divided into 505 labels (by humans) from year 2012.
 
 ## Goals and Objectives
 
